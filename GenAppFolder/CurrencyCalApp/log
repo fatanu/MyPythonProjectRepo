@@ -1,0 +1,38 @@
+INFO 2020-06-24 19:47:32,720 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,721 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,721 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,721 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,721 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,721 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,721 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,721 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,721 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:32,722 user password not correct, 1 attempt remaining
+INFO 2020-06-24 19:47:35,902 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,902 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,902 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,902 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,902 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,902 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,903 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,903 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,903 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:47:35,903 user password not correct, 2 attempt remaining
+INFO 2020-06-24 19:56:20,863 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:02:08,815 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:03:27,376 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:05:19,583 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:05:47,877 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:06:49,692 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:07:20,613 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:10:26,295 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:11:48,179 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:13:27,936 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:14:01,350 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:14:43,744 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-24 20:19:55,141 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-24 20:20:09,116 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-24 20:20:09,209 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-24 20:22:26,420 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-24 20:22:29,077 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-24 20:22:29,153 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
