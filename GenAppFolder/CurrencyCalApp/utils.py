@@ -11,7 +11,7 @@ import msg
 
 
 LOG_FORMAT = '%(levelname)s %(asctime)s %(message)s'
-logging.basicConfig(filename = "/Users/bebede/Documents/class2/log", level = logging.DEBUG, format = LOG_FORMAT)
+logging.basicConfig(filename = "/home/My_Python_Projects/GenAppFolder/CurrencyCalApp/log", level = logging.DEBUG, format = LOG_FORMAT)
 logger = logging.getLogger()
 
 
@@ -55,7 +55,7 @@ def Sendemail(email_addy, message):
 def IsUserExist(username):
     for id, cred in database.userd.items():
         if cred['username'] == username:
-            return True 
+            return True
 
 def IsPasswordOk(username):
     count = 3
@@ -70,7 +70,7 @@ def IsPasswordOk(username):
                 logger.info('user {} logged in successfully to the Currency Converter Application'.format(username))
                 isFound = True
                 break
-        
+
         if isFound:
             break
 
@@ -87,7 +87,7 @@ def IsPasswordOk(username):
 
 def IsEmailValid(username):
     email_add = input("Verify Email Registered with the Account: ")
-        
+
     validateemail = Validemail(email_add)
 
     for id, cred in database.userd.items():
