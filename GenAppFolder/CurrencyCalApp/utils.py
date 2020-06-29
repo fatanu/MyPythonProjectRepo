@@ -7,7 +7,6 @@ import smtplib
 from email.mime.text import MIMEText
 import ssl
 import database
-import msg
 
 
 LOG_FORMAT = '%(levelname)s %(asctime)s %(message)s'
@@ -17,12 +16,11 @@ logger = logging.getLogger()
 
 def Validemail(em): #while for 3 times
   if len(em) > 6:
-    match = re.search(r'^[a-zA-Z0-9.\-_+]{6,}@[a-zA-Z]+\.com$', em)
+    match = re.search(r'^[a-zA-Z0-9.\-_+]+@[a-zA-Z]+\.com$', em)
     if match:
       return True
     else:
-      print("""Invalid email address format, please enter your valid email associated with your account
-                                      Format: min of 6 length and must end with .com""")
+      print("Invalid email address format, please enter your valid email associated with your account. Format: min of 6 length and must end with .com")
   else:
     pass
 
@@ -37,10 +35,10 @@ def Sendemail(email_addy, message):
     sender_email = "anu.testemail2020@gmail.com"
     receiver_email = email_addy
     logger.info("I just sent an email to {}".format(sender_email))
-    print("I just sent an email to {}".format(sender_email))
-    #password = getpass.getpass(prompt="SMTP Server Password: ")
+    #print("I just sent an email to {}".format(receiver_email))
+    password = getpass.getpass(prompt="SMTP Server Password: ")
 
-    '''
+
     msg1 = MIMEText(message)
     msg1['Subject'] = 'Welcome to Currnecy Converter Application '
     msg1['From'] = sender_email
@@ -50,7 +48,7 @@ def Sendemail(email_addy, message):
         server.login(sender_email, password)
         server.sendmail(sender_email, receiver_email, msg1.as_string())
         server.quit()
-    '''
+
 
 def IsUserExist(username):
     for id, cred in database.userd.items():
@@ -75,21 +73,34 @@ def IsPasswordOk(username):
             break
 
         if count > 0:
-            print('count yeee')
+            print('You now have {} login nattempts left'.format(count))
             logger.info('user {} password not correct, {} attempt remaining'.format(username, 3-count))
 
         else:
-            logger.info('user {} Account locked'.forma(username))
+            print("Your Account is Locked")
+            logger.info('user {} Account locked'.format(username))
 
     if isFound:
-        print('yeeee')
         return True
 
-def IsEmailValid(username):
-    email_add = input("Verify Email Registered with the Account: ")
+def EmailExist(user):
+    count = 3
+    IsEmailExist = False
+    while count > 0:
+        count-=1
+        email_add = input("Verify Email Registered with the Account: ")
+        validateemail = Validemail(email_add)
+        if validateemail:
+            for id, cred in database.userd.items():
+                if cred['email'] == email_add and cred['username'] == user:
+                    IsEmailExist = True
+                    return email_add
+                else:
+                    pass
+        else:
+            pass
+        if IsEmailExist:
+            break
 
-    validateemail = Validemail(email_add)
 
-    for id, cred in database.userd.items():
-        if cred['email'] == email_add and cred['username'] == username:
-            return True
+

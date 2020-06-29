@@ -1,0 +1,105 @@
+INFO 2020-06-27 12:02:45,673 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 12:05:27,541 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 12:15:06,748 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 12:16:43,942 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 12:17:54,863 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 12:19:34,002 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 12:19:39,652 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 12:19:44,778 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-27 13:41:10,929 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 13:41:26,821 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 13:41:31,958 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-27 13:46:46,216 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 13:46:51,119 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 13:46:56,249 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-27 14:04:55,117 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 14:05:20,270 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 14:05:25,399 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-27 14:18:01,239 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 17:35:56,313 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 17:53:19,595 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 17:58:43,081 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-27 18:01:52,746 user funmi1 password not correct, 1 attempt remaining
+INFO 2020-06-27 18:01:54,925 user funmi1 password not correct, 2 attempt remaining
+INFO 2020-06-27 18:01:56,447 user funmi1 Account locked
+INFO 2020-06-27 18:16:42,268 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 18:16:55,336 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 18:17:00,533 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-27 18:18:23,510 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 18:18:28,270 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 18:18:33,393 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-27 18:22:46,460 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 18:22:51,459 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 18:22:56,686 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-27 18:23:15,265 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 18:23:20,569 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 18:23:25,700 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-27 18:24:00,047 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-27 18:24:05,057 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-27 18:24:10,191 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:40:43,175 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:40:54,667 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:40:59,809 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:41:59,251 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:42:04,143 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:42:09,277 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:42:57,214 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:43:02,515 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:43:07,631 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:44:09,276 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:44:15,145 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:44:20,282 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:44:20,286 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 00:49:37,775 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:49:47,726 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:49:52,855 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:49:52,859 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 00:52:29,907 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:52:35,481 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:52:40,625 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:52:40,629 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 00:53:21,960 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:53:27,311 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:53:32,445 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:53:45,347 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:53:50,855 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:53:56,000 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:54:09,395 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:54:13,719 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:54:18,833 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 00:55:05,460 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 00:55:10,343 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 00:55:15,460 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 01:09:22,917 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 01:09:37,214 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 01:09:42,338 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 01:09:42,341 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 15:43:49,463 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 15:44:02,225 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 15:44:07,414 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 15:44:07,419 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 15:50:03,379 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-28 15:51:10,124 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-28 15:52:09,997 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 15:52:25,318 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 15:52:30,451 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 15:52:30,455 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 19:34:52,501 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 19:34:57,702 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 19:35:02,870 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 19:35:02,873 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 19:38:13,854 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 19:38:20,088 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 19:38:25,212 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 19:38:25,215 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 20:38:12,854 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 20:38:17,346 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 20:38:22,482 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 20:38:22,486 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 20:45:26,921 user funmi1 logged in successfully to the Currency Converter Application
+DEBUG 2020-06-28 20:45:34,544 Starting new HTTPS connection (1): api.exchangeratesapi.io:443
+DEBUG 2020-06-28 20:45:39,700 https://api.exchangeratesapi.io:443 "GET /latest?base=USD HTTP/1.1" 200 None
+INFO 2020-06-28 20:45:39,703 I just sent an email to anu.testemail2020@gmail.com
+INFO 2020-06-28 20:47:29,886 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-28 20:54:07,093 user funmi1 logged in successfully to the Currency Converter Application
+INFO 2020-06-28 20:56:27,365 user funmi1 logged in successfully to the Currency Converter Application
